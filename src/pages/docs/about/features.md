@@ -3,6 +3,12 @@ title: Features
 weight: 2
 template: docs
 ---
+![photo_2020-02-24_07-20-13](https://i.imgur.com/QE7R7rX.jpg)
+![photo_2020-02-24_07-20-07](https://i.imgur.com/8rAEIL2.jpg)
+![photo_2020-02-24_07-20-12](https://i.imgur.com/RFCUGnZ.jpg)
+![photo_2020-02-24_07-20-17](https://i.imgur.com/osqRnMt.jpg)
+![photo_2020-02-24_07-20-15](https://i.imgur.com/RCKmP0P.jpg)
+![photo_2020-02-24_07-20-10](https://i.imgur.com/XtQvo5S.jpg)
 
 <div class="note">
   <strong>Note:</strong> This is the demo content for demonstration purpose only. The primary function of this content is to show you what this theme can do. There is a more detailed explanation in the <strong>Getting Started</strong> section.
@@ -31,7 +37,7 @@ if (condition) {
   run some other code instead
 }
 ```
-
+/Users/naveeninja/Downloads/Bettergram/photo_2020-02-24_07-21-12.jpg
 Or to highlight the **CSS** code, specify `css` next to the tick marks before the fenced code block:
 
 <pre>
